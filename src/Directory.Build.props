@@ -1,0 +1,10 @@
+<Project>
+  <PropertyGroup>
+    <!-- 모든 프로젝트의 빌드 결과물을 최상위 src/artifacts/ 폴더 아래로 강제 통합 -->
+    <ArtifactsPath>$(MSBuildThisFileDirectory)artifacts</ArtifactsPath>
+    <!-- 호환성을 위한 C# 12 버전 고정 및 엄격한 에러 체크 -->
+    <LangVersion>12</LangVersion>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+</Project>

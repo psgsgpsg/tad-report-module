@@ -1,0 +1,11 @@
+C:\Workspace\tad-report-module\src\artifacts\bin\TAD.Report.Core\debug\TAD.Report.Core.deps.json
+C:\Workspace\tad-report-module\src\artifacts\bin\TAD.Report.Core\debug\TAD.Report.Core.dll
+C:\Workspace\tad-report-module\src\artifacts\bin\TAD.Report.Core\debug\TAD.Report.Core.pdb
+C:\Workspace\tad-report-module\src\artifacts\obj\TAD.Report.Core\debug\TAD.Report.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\tad-report-module\src\artifacts\obj\TAD.Report.Core\debug\TAD.Report.Core.AssemblyInfoInputs.cache
+C:\Workspace\tad-report-module\src\artifacts\obj\TAD.Report.Core\debug\TAD.Report.Core.AssemblyInfo.cs
+C:\Workspace\tad-report-module\src\artifacts\obj\TAD.Report.Core\debug\TAD.Report.Core.csproj.CoreCompileInputs.cache
+C:\Workspace\tad-report-module\src\artifacts\obj\TAD.Report.Core\debug\TAD.Report.Core.dll
+C:\Workspace\tad-report-module\src\artifacts\obj\TAD.Report.Core\debug\refint\TAD.Report.Core.dll
+C:\Workspace\tad-report-module\src\artifacts\obj\TAD.Report.Core\debug\TAD.Report.Core.pdb
+C:\Workspace\tad-report-module\src\artifacts\obj\TAD.Report.Core\debug\ref\TAD.Report.Core.dll
